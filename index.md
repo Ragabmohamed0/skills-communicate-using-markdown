@@ -4,3 +4,7 @@
 
 ![Image not found](https://octodex.github.com/images/yaktocat.png)
 
+``` python
+str x = "Ragab"
+print(x)
+```
